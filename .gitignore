@@ -1,0 +1,15 @@
+venv/
+.venv
+node_modules/
+identified.txt
+not-identified.txt
+__pycache__
+
+*.log
+.idea
+.vscode
+log.*
+*.csv
+*.xlsx
+*.json
+*.out

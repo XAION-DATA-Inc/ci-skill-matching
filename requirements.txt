@@ -1,0 +1,6 @@
+PyMySQL==1.0.2
+pydantic==1.8.2
+boto3==1.18.21
+matplotlib==3.6.0
+numpy==1.23.3
+mecab==1.0.4
