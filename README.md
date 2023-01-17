@@ -35,4 +35,4 @@ order by
 	score desc
 limit 25	
 ```
-- I store the result into `user_job_offer_recommendations` to limit caching
+- I store the result into `user_job_offer_recommendations` for caching
